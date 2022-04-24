@@ -1,0 +1,14 @@
+2022-Apr-24 11:55:40,752 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 11:55:41,837 [main] com.testcase.Testing1 
+  INFO  TC #3 works fine
+2022-Apr-24 11:55:43,113 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 11:55:44,045 [main] com.testcase.Testing1 
+  INFO  TC #2 works fine
+2022-Apr-24 11:55:45,259 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 11:55:50,463 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Tutorial
+2022-Apr-24 11:55:57,186 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Featured

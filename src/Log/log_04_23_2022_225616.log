@@ -1,0 +1,10 @@
+2022-Apr-23 22:56:05,325 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Featured
+2022-Apr-23 22:56:11,439 [main] com.testcase.Testing1 
+  INFO  Entered search text
+2022-Apr-23 22:56:13,584 [main] com.testcase.Testing1 
+  INFO  Clicked on Search Button
+2022-Apr-23 22:56:14,693 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Button
+2022-Apr-23 22:56:16,802 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Date Button

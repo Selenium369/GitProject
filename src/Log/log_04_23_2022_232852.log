@@ -1,0 +1,14 @@
+2022-Apr-23 23:28:25,784 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-23 23:28:31,563 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Tutorial
+2022-Apr-23 23:28:39,900 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Featured
+2022-Apr-23 23:28:47,043 [main] com.testcase.Testing1 
+  INFO  Entered search text
+2022-Apr-23 23:28:49,223 [main] com.testcase.Testing1 
+  INFO  Clicked on Search Button
+2022-Apr-23 23:28:50,338 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Button
+2022-Apr-23 23:28:52,475 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Date Button

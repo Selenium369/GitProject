@@ -1,0 +1,6 @@
+2022-Apr-24 00:30:03,835 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Featured
+2022-Apr-24 00:30:09,620 [main] com.testcase.Testing1 
+  INFO  Entered search text
+2022-Apr-24 00:30:11,826 [main] com.testcase.Testing1 
+  INFO  Clicked on Search Button

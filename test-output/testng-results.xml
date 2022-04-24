@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-24T12:33:58 BST" name="Default suite" finished-at="2022-04-24T12:34:28 BST" duration-ms="29745">
+    <groups>
+    </groups>
+    <test started-at="2022-04-24T12:33:58 BST" name="Default test" finished-at="2022-04-24T12:34:28 BST" duration-ms="29745">
+      <class name="com.testcase.Testing1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:33:58 BST" name="setup" finished-at="2022-04-24T12:34:01 BST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCaseNoTHREE()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:01 BST" name="testCaseNoTHREE" finished-at="2022-04-24T12:34:01 BST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseNoTHREE -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:01 BST" name="teardown" finished-at="2022-04-24T12:34:01 BST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:01 BST" name="setup" finished-at="2022-04-24T12:34:03 BST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCaseNoTWO()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:03 BST" name="testCaseNoTWO" finished-at="2022-04-24T12:34:03 BST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseNoTWO -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:03 BST" name="teardown" finished-at="2022-04-24T12:34:04 BST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:04 BST" name="setup" finished-at="2022-04-24T12:34:06 BST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySeleniumFeatureLinkDisplaysOnThePage()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:06 BST" name="verifySeleniumFeatureLinkDisplaysOnThePage" finished-at="2022-04-24T12:34:27 BST" duration-ms="21727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeleniumFeatureLinkDisplaysOnThePage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcase.Testing1@782859e]" started-at="2022-04-24T12:34:27 BST" name="teardown" finished-at="2022-04-24T12:34:28 BST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testcase.Testing1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

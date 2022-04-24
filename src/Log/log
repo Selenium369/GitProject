@@ -1,0 +1,22 @@
+2022-Apr-24 12:34:00,262 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 12:34:01,475 [main] com.testcase.Testing1 
+  INFO  TC #3 works fine
+2022-Apr-24 12:34:02,912 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 12:34:03,851 [main] com.testcase.Testing1 
+  INFO  TC #2 works fine
+2022-Apr-24 12:34:05,017 [main] com.framework.utility.Keyword 
+  INFO  Chromesuccessfully launched
+2022-Apr-24 12:34:09,988 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Tutorial
+2022-Apr-24 12:34:16,512 [main] com.testcase.Testing1 
+  INFO  Clicked on Selenium Featured
+2022-Apr-24 12:34:18,633 [main] com.testcase.Testing1 
+  INFO  Entered search text
+2022-Apr-24 12:34:24,116 [main] com.testcase.Testing1 
+  INFO  Clicked on Search Button
+2022-Apr-24 12:34:25,643 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Button
+2022-Apr-24 12:34:27,765 [main] com.testcase.Testing1 
+  INFO  Clicked on Sort Date Button
